@@ -1,6 +1,10 @@
 # Kernel-Module
 A simple kernel module to print any string into a file using echo and cat for printing on the terminal.
+
+
 How to run this Kermel Module:A simple kernel module to print anything into a file which is logged into a file:
+
+
 First you need to be a root user to access al dev files provided in your kernel.
 Save your code-file, in my case it is “osproject.c”
 Create a Makefile as shown above
